@@ -1,5 +1,18 @@
-## S.S.V.P.S's B. S. Deore Polytechnic, Dhule
+# AI in Digital Forensics
 
-## Department of Computer Engineering
+## Project Description
+This project focuses on the application of Artificial Intelligence in Digital Forensics. It explores how AI helps in digital evidence analysis and investigation.
 
-This repository contains Third Year (CO5K) SPI projects for Academic Year: 2026-2027.
+## Group Information
+Group Number: 11
+
+## Team Members
+1. Vedika Hemant Patil
+2. Trupti Chhotu Shende
+3. Kirtika Suresh Sonawane
+4. Neha Gangadhar Wagh
+
+## Project Files
+- Project Report
+- Project Presentation
+- Research Papers
