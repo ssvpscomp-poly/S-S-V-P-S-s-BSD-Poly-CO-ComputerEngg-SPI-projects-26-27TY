@@ -1,7 +1,7 @@
-# Employee Leave Management System
+# AI-Based Rainwater Harvesting Potential Predictor
 
 ## Project Description
-The Employee Leave Management System is designed to manage employee leave applications digitally. Employees can apply for leave, and managers can approve or reject leave requests.
+This project uses Artificial Intelligence to predict rainwater harvesting potential based on rainfall and other relevant parameters.
 
 ## Group Details
 Group Number: 04
@@ -13,15 +13,11 @@ Group Number: 04
 4. Kalyani Thakare
 
 ## Main Features
-- Leave Application
-- Leave Approval and Rejection
-- Leave History
+- Rainwater Harvesting Potential Prediction
+- Rainfall Data Analysis
+- AI-Based Prediction
+- Water Conservation Support
 
 ## Project Status
 Project Report and Presentation are prepared.
 Application development is pending.
-
-## Project Structure
-- project_report
-- project_images
-- source_code
