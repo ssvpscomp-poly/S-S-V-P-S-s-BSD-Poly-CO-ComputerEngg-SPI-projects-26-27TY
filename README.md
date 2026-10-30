@@ -1,5 +1,27 @@
-## S.S.V.P.S's B. S. Deore Polytechnic, Dhule
+# Employee Leave Management System
 
-## Department of Computer Engineering
+## Project Description
+The Employee Leave Management System is designed to manage employee leave applications digitally. Employees can apply for leave, and managers can approve or reject leave requests.
 
-This repository contains Third Year (CO5K) SPI projects for Academic Year: 2026-2027.
+## Group Details
+Group Number: 04
+
+## Team Members
+1. Shrawani Gautam
+2. Viddhi Vibhandik
+3. Hemangi Suryawanshi
+4. Kalyani Thakare
+
+## Main Features
+- Leave Application
+- Leave Approval and Rejection
+- Leave History
+
+## Project Status
+Project Report and Presentation are prepared.
+Application development is pending.
+
+## Project Structure
+- project_report
+- project_images
+- source_code
