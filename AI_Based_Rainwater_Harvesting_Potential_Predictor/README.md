@@ -1,4 +1,4 @@
-##AI-Based Rainwater Harvesting Potential Predictor
+AI-Based Rainwater Harvesting Potential Predictor
 Project Description
 This project uses Artificial Intelligence to predict rainwater harvesting potential based on rainfall and other relevant parameters.
 
